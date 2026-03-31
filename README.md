@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi! 👋 I'm a Systems Engineering student at UNITEC Honduras, currently in my third year. I have a strong passion for technology and enjoy crafting user-friendly, visually appealing interfaces. My interests lie in frontend development, where I focus on creating modern and interactive web experiences.<br><br>Feel free to explore my repositories and projects as I continue to learn and grow in the tech world. Let's connect and collaborate! 🚀
+# About Me:
+Hi! I'm a Systems Engineering student at UNITEC Honduras, currently in my fourth year. 
 
 
 ## 🌐 Socials:
@@ -15,8 +15,6 @@ Hi! 👋 I'm a Systems Engineering student at UNITEC Honduras, currently in my t
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DanielCruzParedes&theme=discord_old_blurple&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=DanielCruzParedes&icon=0&color=0)](https://visitcount.itsvg.in)
